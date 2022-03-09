@@ -5,8 +5,8 @@
     
     <display-name>resto</display-name>
     <welcome-file-list>
-        <welcome-file>index.html</welcome-file>
-        <welcome-file>index.htm</welcome-file>
-        <welcome-file>index.jsp</welcome-file>
+        <welcome-file>special-dishes.html</welcome-file>
+        <welcome-file>special-dishes.htm</welcome-file>
+        <welcome-file>special-dishes.jsp</welcome-file>
     </welcome-file-list>
 </web-app>
